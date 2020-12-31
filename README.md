@@ -1,4 +1,4 @@
-## Wezome test project
+## Wezom test project
 
 Based on laravel 
 
